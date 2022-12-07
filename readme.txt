@@ -16,3 +16,5 @@ Funcionamento do sistema
 
 
  abre com a tela para gestão 
+ 
+ banco de dados MySql
