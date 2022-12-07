@@ -17,4 +17,4 @@ Funcionamento do sistema
 
  abre com a tela para gestão 
  
- banco de dados MySql
+ banco de dados MySql nome do banco de dados feegow  usuario: root, senha vazia
